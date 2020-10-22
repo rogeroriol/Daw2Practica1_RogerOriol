@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<htmll lang='es'>
+<html lang='es'>
    <head>
       <title>Bucles for</title>
       <style>
